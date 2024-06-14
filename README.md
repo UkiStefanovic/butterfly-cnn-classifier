@@ -29,6 +29,7 @@ The CNN model architecture used in this project consists of several convolutiona
 
 1. Clone the repository:
     git clone https://github.com/UkiStefanovic/butterfly-cnn-classifier.git
+    
     cd butterfly-cnn-classifier
 
 2. Install dependencies:
