@@ -34,6 +34,7 @@ The CNN model architecture used in this project consists of several convolutiona
     cd butterfly-cnn-classifier
 
 2. Install dependencies:
+
     pip install -r requirements.txt
 
 ## Usage
