@@ -1,0 +1,6 @@
+tensorflow==2.0.0  # Ensure specific version of TensorFlow that you used
+numpy
+matplotlib
+pandas
+Pillow
+scikit-learn
