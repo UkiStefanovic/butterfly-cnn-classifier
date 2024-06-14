@@ -24,19 +24,6 @@ The dataset used for training and testing the model can be downloaded from [Kagg
 
 The CNN model architecture used in this project consists of several convolutional layers followed by max-pooling layers to extract features from butterfly images. The final layers are densely connected to classify the images into 100 different butterfly species. The model achieved an accuracy of 81.6% on the validation set.
 
-## Project Structure
-
-butterfly-cnn-classifier/
-├── data/
-├── models/
-│ └── model.keras
-├── notebooks/
-│ └── Deep_learning_Project.ipynb
-├── pdfs/
-│ └── Deep_learing_Project.pdf
-├── requirements.txt
-└── README.md
-
 
 ## Installation
 
